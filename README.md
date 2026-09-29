@@ -15,18 +15,6 @@ Join me as I explore the world of academia, research, and creativity ✨ <br/>
   <a href="mailto:avryl.rodrigues@outlook.com"><img src="https://img.shields.io/badge/Email-690056?style=for-the-badge&logo=microsoftoutlook&logoColor=white" /></a>
 </p>
 
-## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avrylrodrigues&bg_color=690056&title_color=ffffff&text_color=ffffff&hide_border=true&layout=compact" />
-</p>
-
-## 📔 Latest Project
-<div align="left">
-  <a href="https://github.com/avrylrodrigues/InfoLens">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=avrylrodrigues&repo=InfoLens&bg_color=0D1117&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=false" />
-  </a>
-</div>
-
 ## 💻 Tech Stack:
 ⭐ Languages:
 
