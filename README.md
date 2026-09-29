@@ -4,7 +4,7 @@
 
 ## About Me 😊
 - 🎓 Final year **BSc (Honours) Information Technology** student at **Middlesex University, Dubai**
-- 🎨 Passionate about **Web Development** and **UI/UX Design** 
+- 🎨 Passionate about **Data Analysis**, **UI/UX Design** and **Web Development** 
 - 😍 I love making websites and apps because I like the process of seeing my hard work come to life in a form that others can use.
 
 Join me as I explore the world of academia, research, and creativity ✨ <br/>
