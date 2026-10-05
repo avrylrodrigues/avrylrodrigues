@@ -3,7 +3,8 @@
 </p>
 
 ## About Me 😊
-- 🎓 Final year **BSc (Honours) Information Technology** student at **Middlesex University, Dubai**
+- 🎓 **MSc. Data Science and Artificial Intelligence** student at **Middlesex University, Dubai**
+- 🎓 First Class **BSc. (Honours) Information Technology**
 - 🎨 Passionate about **Data Analysis**, **UI/UX Design** and **Web Development** 
 - 😍 I love making websites and apps because I like the process of seeing my hard work come to life in a form that others can use.
 
